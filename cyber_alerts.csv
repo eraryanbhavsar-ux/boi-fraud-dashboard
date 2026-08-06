@@ -1,0 +1,6 @@
+Alert ID,Severity,Description
+CA101,HIGH,Multiple suspicious UPI transfers detected
+CA102,MEDIUM,New beneficiary added recently
+CA103,HIGH,Rapid cash withdrawal pattern detected
+CA104,LOW,Normal account monitoring event
+CA105,HIGH,Account linked to known mule network
